@@ -1,12 +1,12 @@
 # DatabaseDataset
 SOCIAL MEDIA USERS'.
---
-#Data dive 
+
+--#Data dive;. 
 Difficulties:
 The dataset available is inconsistency and lack normalization of any kind.It also has dublicate values such as Jacquelin Cook has 'Fashion' listed twice.
 The data entry can lead to wrong analysis due to its data entry errors.
 --
-#2.DATA FUN 
+--#2.DATA FUN .
 .Sql querry
 --select *from Users
 # Use basic SQL queries like (COUNT, AVG, and SUM) to understand more about the data you have
